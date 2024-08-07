@@ -1,4 +1,4 @@
-[![kingbloby's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingbloby&show_icons=true&theme=dark&hide_border=true&locale=ru)](https://github.com/anuraghazra/github-readme-stats)
+[![kingbloby's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingbloby&show_icons=true&theme=ambient_gradient&locale=ru&custom_title=%D0%9C%D0%BE%D1%8F%20%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0%3A&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **kingbloby/kingbloby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
