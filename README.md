@@ -17,9 +17,5 @@ Here are some ideas to get you started:
   <h2 align="center">Грустный король</h2>
   <p align="center">Всем привет! Я грустный король, а также официальный AGScratcherBest со Скретча.</p>
 </p>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kingbloby&show_icons=true&theme=ambient_gradient&locale=ru&custom_title=%D0%9C%D0%BE%D1%8F%20%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0%3A&include_all_commits=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kingbloby&theme=ambient_gradient&locale=ru&layout=compact&custom_title=%D0%A7%D0%B0%D1%81%D1%82%D0%BE%20%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D0%B5%D0%BC%D1%8B%D0%B5%20%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8%3A" />
-</a>
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=kingbloby&show_icons=true&theme=github_dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=kingbloby&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
